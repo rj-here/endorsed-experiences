@@ -6,7 +6,7 @@ This is an essential spot! You've not been in Ontario if you've not seen this. A
 Nearby is the skywheel, a fun way to see the falls and the area otherwise too.
 
 ## CN Tower
-Amongst [the tallest buildings, and one of the 7 world wonders](https://en.wikipedia.org/wiki/CN_Tower), this is also an essential I'd put on the list.
+Amongst [the tallest buildings of the world, and one of the 7 world wonders](https://en.wikipedia.org/wiki/CN_Tower), this is also an essential I'd put on the list.
 
 ## Ripley's Aquarium of Canada
 For a different experience, this can be considered! Many things to see, nice vibes.
