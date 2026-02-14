@@ -6,8 +6,7 @@ This is an essential spot! You've not been in Ontario if you've not seen this. A
 Nearby is the skywheel, a fun way to see the falls and the area otherwise too.
 
 ## CN Tower
-Amongst the tallest buildings, and one of the 7 world wonders, this is also an essential I'd put on the list.
-Just to fact check: [https://en.wikipedia.org/wiki/CN_Tower]
+Amongst [the tallest buildings, and one of the 7 world wonders](https://en.wikipedia.org/wiki/CN_Tower), this is also an essential I'd put on the list.
 
 ## Ripley's Aquarium of Canada
 For a different experience, this can be considered! Many things to see, nice vibes.
@@ -39,5 +38,16 @@ Seeing the riverfront in Windsor was nice! There's a mini park which was fun. Ac
 ## Coronation Park*
 This was a nice park to go to, and see the holiday lights (hence the asterisk).
 
-Last updated by Rishi on 13th February, 2026
-GitHub [https://github.com/rj-here]
+## Casa Loma
+A historic castle to see!
+
+## Port Credit*
+This is also another nice spot to go. The asterisk is due to the water being visit on my previous visit and I'm not aware if it has improved since!
+
+## Nathan Phillips Square
+A community square with a nice waterfall, and often...an event! You can go their site to see the event schedule.
+
+## Little Canada
+If you want a mini tour of the country, you can consider visiting here! With tiny versions of the CN Tower, Niagara, and more, this place will feel nice.
+
+Last updated by Rishi on 13th February, 2026 | [GitHub](https://github.com/rj-here) | [LinkedIn](https://www.linkedin.com/in/rishi-juneja-04824026a/) | [My Page](https://rj-here.github.io/personalpage/index.html)
