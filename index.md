@@ -42,7 +42,7 @@ This was a nice park to go to, and see the holiday lights (hence the asterisk).
 A historic castle to see!
 
 ## Port Credit*
-This is also another nice spot to go. The asterisk is due to the water being visit on my previous visit and I'm not aware if it has improved since!
+This is also another nice spot to go. The asterisk is due to the water being dirty (brownish) on my previous visit and I'm not aware if it has improved since!
 
 ## Nathan Phillips Square
 A community square with a nice waterfall, and often...an event! You can go their site to see the event schedule.
@@ -50,4 +50,10 @@ A community square with a nice waterfall, and often...an event! You can go their
 ## Little Canada
 If you want a mini tour of the country, you can consider visiting here! With tiny versions of the CN Tower, Niagara, and more, this place will feel nice.
 
-Last updated by Rishi on 13th February, 2026 | [GitHub](https://github.com/rj-here) | [LinkedIn](https://www.linkedin.com/in/rishi-juneja-04824026a/) | [My Page](https://rj-here.github.io/personalpage/index.html)
+## Heart Lake
+A nice conservation area with many trails. This allows for a relaxing couple of hours!
+
+Last updated by Rishi on 15th February, 2026
+
+[GitHub](https://github.com/rj-here) | [LinkedIn](https://www.linkedin.com/in/rishi-juneja-04824026a/) | [My Page](https://rj-here.github.io/personalpage/index.html)
+
